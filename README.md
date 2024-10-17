@@ -3,11 +3,13 @@
 ## Project Overview
 This project involves building an interactive **Sales Analysis Dashboard** to visualize and analyze sales data for actionable insights. The dashboard provides a comprehensive overview of sales performance, product profitability, customer demographics, and other key metrics to support data-driven decision-making.
 
+
 ## Tools & Technologies
 - **Excel**
 - **Data Processing & Cleaning**: Excel
 - **Visualization**: Custom charts, filters, and dynamic data views
 - **Data Analysis**: Profit trends, customer segmentation, and product performance insights
+
 
 ## Dataset
 The dataset used is derived from [**AdventureWorks**](https://github.com/MaryamRafiquee/Sales-Analysis/blob/main/AdventureWorks.xlsx) and contains the following key columns:
@@ -24,6 +26,8 @@ The dataset used is derived from [**AdventureWorks**](https://github.com/MaryamR
 - **Transaction Count**: Total number of transactions.
 - **Time Data**: Sales data over different months, quarters, and years.
 
+
+
 ## Key Features of the Dashboard
 1. **Sales Overview**:
    - Total quantity, revenue, profit, and transactions.
@@ -39,10 +43,12 @@ The dataset used is derived from [**AdventureWorks**](https://github.com/MaryamR
 4. **Dynamic Filters**:
    - Filter sales performance by year, region, and other categories to gain specific insights.
 
+## Dashboard
+
 ![Dashboard1](https://github.com/user-attachments/assets/a5684a90-8988-45fc-bf7a-c1928cd608a0) 
 
 ![Dashboard2](https://github.com/user-attachments/assets/a5a04eac-3a1f-409c-b9f6-2962b2c0647f)
 
 
 ## Conclusion
-This [dashboard]() simplifies complex sales data into easily digestible insights, helping stakeholders make informed decisions on product strategy, customer engagement, and regional performance.
+This [dashboard](https://github.com/MaryamRafiquee/Sales-Analysis/blob/main/Dashboard_Excel.xlsm) simplifies complex sales data into easily digestible insights, helping stakeholders make informed decisions on product strategy, customer engagement, and regional performance.
